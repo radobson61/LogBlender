@@ -1,0 +1,13 @@
+C:\Users\ra_do\source\repos\SLLogBlender\SLLogBlender\SLLogBlender\bin\Debug\netcoreapp3.1\SLLogBlender.exe
+C:\Users\ra_do\source\repos\SLLogBlender\SLLogBlender\SLLogBlender\bin\Debug\netcoreapp3.1\SLLogBlender.deps.json
+C:\Users\ra_do\source\repos\SLLogBlender\SLLogBlender\SLLogBlender\bin\Debug\netcoreapp3.1\SLLogBlender.runtimeconfig.json
+C:\Users\ra_do\source\repos\SLLogBlender\SLLogBlender\SLLogBlender\bin\Debug\netcoreapp3.1\SLLogBlender.runtimeconfig.dev.json
+C:\Users\ra_do\source\repos\SLLogBlender\SLLogBlender\SLLogBlender\bin\Debug\netcoreapp3.1\SLLogBlender.dll
+C:\Users\ra_do\source\repos\SLLogBlender\SLLogBlender\SLLogBlender\bin\Debug\netcoreapp3.1\SLLogBlender.pdb
+C:\Users\ra_do\source\repos\SLLogBlender\SLLogBlender\SLLogBlender\obj\Debug\netcoreapp3.1\SLLogBlender.csprojAssemblyReference.cache
+C:\Users\ra_do\source\repos\SLLogBlender\SLLogBlender\SLLogBlender\obj\Debug\netcoreapp3.1\SLLogBlender.AssemblyInfoInputs.cache
+C:\Users\ra_do\source\repos\SLLogBlender\SLLogBlender\SLLogBlender\obj\Debug\netcoreapp3.1\SLLogBlender.AssemblyInfo.cs
+C:\Users\ra_do\source\repos\SLLogBlender\SLLogBlender\SLLogBlender\obj\Debug\netcoreapp3.1\SLLogBlender.csproj.CoreCompileInputs.cache
+C:\Users\ra_do\source\repos\SLLogBlender\SLLogBlender\SLLogBlender\obj\Debug\netcoreapp3.1\SLLogBlender.dll
+C:\Users\ra_do\source\repos\SLLogBlender\SLLogBlender\SLLogBlender\obj\Debug\netcoreapp3.1\SLLogBlender.pdb
+C:\Users\ra_do\source\repos\SLLogBlender\SLLogBlender\SLLogBlender\obj\Debug\netcoreapp3.1\SLLogBlender.genruntimeconfig.cache
